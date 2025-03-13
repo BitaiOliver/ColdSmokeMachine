@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "webserver.h": "c",
+        "esp8266wifi.h": "c",
+        "esp8266wifista.h": "c",
+        "esp8266wifitype.h": "c",
+        "esp8266wifigeneric.h": "c",
+        "webserver_priv.h": "c",
+        "arduino.h": "c",
+        "rte_types.h": "c"
+    }
+}
